@@ -1,5 +1,5 @@
 #include <iostream>
-#include <String>
+#include <string>
 //#include "include/SFML/System.hpp"
 #include <SFML/System.hpp>
 #include <SFML/Graphics.hpp>
@@ -43,8 +43,6 @@ class map{
 };
 class random{
 	public:
-	random();
-	~random();
 	inline int randx();
 	inline int randy();
 };
