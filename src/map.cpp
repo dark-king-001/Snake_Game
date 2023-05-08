@@ -1,4 +1,15 @@
 #include "map.hpp"
+inline int random :: randx(){
+    int x = rand()%16,flag=0;
+    std::cout << "  random x generated  " << x;
+    return x;
+}
+inline int random :: randy(){
+    int y = rand()%16,flag=0;
+    std::cout << "  random y generated  " << y; 
+    return y;
+}
+
 map :: map (){
     font.loadFromFile("fonts/OpenSans-Bold.ttf");
     text.setFont(font);
@@ -77,9 +88,8 @@ sf::Vector2i map :: snake (int movex,int movey){
     return position;
 }
 sf::Vector2i map :: randcheck(){
-    random ran;
-    int x= ran.randx();
-    int y= ran.randy();
+    int x= rand()%16;
+    int y= rand()%16;
     sf::Vector2i random(x,y);
     for (int i=c;i>=(c-power);i--){
         if (d1[i]==y){
@@ -108,20 +118,4 @@ sf::Vector2i map :: food(){
 void map ::scoring(){
     power++;
     score=score+50*level;
-}
-random :: random(){
-    std::cout << " constructor called " << std::endl;   
-}
-random :: ~random(){
-    std::cout << " destructor called " << std::endl;
-}
-inline int random :: randx(){
-    int x = rand()%16,flag=0;
-    std::cout << "  random x generated  " << x;
-    return x;
-}
-inline int random :: randy(){
-    int y = rand()%16,flag=0;
-    std::cout << "  random y generated  " << y; 
-    return y;
 }
