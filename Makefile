@@ -13,4 +13,4 @@ clean:
 	del *.exe
 
 run:
-	main.exe
+	./main
