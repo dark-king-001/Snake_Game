@@ -1,5 +1,5 @@
 # Snake Game
-- ![Snake Game Logo](https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Directory%20Snapshot.png)
+- ![Snake Game Logo](https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Snake%20Game.png)
 Be a Gamer with Snake Game
 
 ## About The Project
