@@ -1,6 +1,5 @@
-# Adventure Addicts Platform
-
-![Snake Game Logo](https://img.shields.io/badge/Snake%20Game-A%20game%20made%20with%20passion%20by%20a%20beginner-green?style=flat&logo=SG)
+# Snake Game
+- ![Snake Game Logo](https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Directory%20Snapshot.png)
 Be a Gamer with Snake Game
 
 ## About The Project
@@ -28,10 +27,22 @@ To learn concepts of OOPS in a Fun and Interesting ways.
 
 ### Installation
 
-1. Clone the repo: `git clone https://github.com/dark-king-001/Snake_Game.git`
-2. Install SFML for linux: `sudo apt-get install libsfml-dev`
-3. Enter the Folder: `cd Snake_Game`
-4. run the game: `make test`
+1. Clone the repo: 
+```sh 
+git clone https://github.com/dark-king-001/Snake_Game.git
+```
+2. Install SFML for linux: 
+```sh 
+sudo apt-get install libsfml-dev
+```
+3. Enter the Folder: 
+```sh 
+cd Snake_Game
+```
+4. run the game: 
+```sh
+make test
+```
 
 ## Project Images
 
