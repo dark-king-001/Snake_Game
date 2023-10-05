@@ -48,10 +48,10 @@ This game is made when i was a beginner in c++ coving all the conceots of OOPS a
 <ul>
   <li>
     <p>Directory Snapshot</p>
-    <img src="https://github.com/rajat62/Adventure_Addicts/assets/107788563/d7d6c17b-1798-4e68-b11d-253bff647f97"/>
+    <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Directory%20Snapshot.png"/>
   </li>
   <li>
     <p>Running Game</p>
-    <img src="https://github.com/rajat62/Adventure_Addicts/assets/107788563/2deb8a51-5360-494f-87e7-6ef0b1215680"/>
+    <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Main%20Game.png"/>
   </li>
 </ul>
