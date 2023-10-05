@@ -33,15 +33,15 @@ To learn concepts of OOPS in a Fun and Interesting ways.
 ### Installation
 
 1. Clone the repo: 
-```sh 
+```bash
 git clone https://github.com/dark-king-001/Snake_Game.git
 ```
 2. Install SFML for linux: 
-```sh 
+```sh
 sudo apt-get install libsfml-dev
 ```
 3. Enter the Folder: 
-```sh 
+```sh
 cd Snake_Game
 ```
 4. run the game: 
