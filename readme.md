@@ -1,6 +1,6 @@
 # Snake Game
 <p align="center">
-  <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Snake%20Game(1).png" alt="Snake Game" />
+  <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Snake%20Game%20(1).png" alt="Snake Game" />
 </p>
 <p align="center">
   <h4 align="center">Be a Gamer with Snake Game</h4>
