@@ -1,6 +1,6 @@
-all: compile link
+all: compile link clean_obj
 
-test: compile link run
+test: compile link clean_obj run clean_exe
 
 compile:
 	g++ -c src/*.cxx
@@ -8,9 +8,11 @@ compile:
 link:
 	g++ *.o -o main -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lsfml-network
 
-clean:
-	del *.o
-	del *.exe
+clean_obj:
+	rm -r *.o
+
+clean_exe:
+	rm -r *.exe
 
 run:
 	./main
