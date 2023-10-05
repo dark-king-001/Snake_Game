@@ -1,6 +1,6 @@
 # Snake Game
 <p align="center">
-  <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Snake%20Game%20(1).png" alt="Snake Game" />
+  <img src="https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Snake%20Game.png" alt="Snake Game" />
 </p>
 <p align="center">
   <h4 align="center">Be a Gamer with Snake Game</h4>
@@ -33,7 +33,7 @@ To learn concepts of OOPS in a Fun and Interesting ways.
 ### Installation
 
 1. Clone the repo: 
-```bash
+```sh
 git clone https://github.com/dark-king-001/Snake_Game.git
 ```
 2. Install SFML for linux: 
