@@ -50,9 +50,9 @@ make test
 ```
 
 ## Project Images
-
+- **Running Game**
+  ![Running Game](https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Main%20Game.png)
+  
 - **Directory Snapshot**
   ![Directory Snapshot](https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Directory%20Snapshot.png)
   
-- **Running Game**
-  ![Running Game](https://github.com/dark-king-001/Snake_Game/blob/main/Snapshots/Main%20Game.png)
